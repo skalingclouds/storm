@@ -25,3 +25,5 @@ secrets.toml
 */assertion.log
 *results/
 .venv/
+venv/Lib/site-packages/_plotly_utils/utils.py
+*venv*
